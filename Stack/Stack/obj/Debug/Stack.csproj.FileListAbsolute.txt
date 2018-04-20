@@ -1,0 +1,7 @@
+C:\Users\v-Jamoy\Documents\Visual Studio 2017\UdemyExcercises\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\v-Jamoy\Documents\Visual Studio 2017\UdemyExcercises\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\v-Jamoy\Documents\Visual Studio 2017\UdemyExcercises\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\v-Jamoy\Documents\Visual Studio 2017\UdemyExcercises\Stack\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+C:\Users\v-Jamoy\Documents\Visual Studio 2017\UdemyExcercises\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\v-Jamoy\Documents\Visual Studio 2017\UdemyExcercises\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\v-Jamoy\Documents\Visual Studio 2017\UdemyExcercises\Stack\Stack\obj\Debug\Stack.pdb
